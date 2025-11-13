@@ -39,16 +39,15 @@ It includes:
 
 # 📂 Project Structure
 
-.
+![Untitled - Frame 1](https://github.com/user-attachments/assets/72883784-cdfb-4363-8c6d-6471224fa542)
+
+
+
 # 🛠️ Tech Stack
-Component	Used For
-Python	ETL, preprocessing, metrics computation
-Pandas	Data cleaning, feature engineering
-MySQL	Storing processed stock data
-SQLAlchemy + PyMySQL	Python–SQL integration
-Power BI	Visual dashboards
-Streamlit	Interactive web interface
-YAML	Raw dataset format
+
+![Untitled (2)](https://github.com/user-attachments/assets/ff8a97b9-3293-46b7-96ce-38d178a7592a)
+
+
 
 # 📥 Data Extraction (YAML → CSV)
 
